@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FYT Launcher</string>
+    <string name="media_access_service_label">FYT Launcher media controls</string>
+</resources>
